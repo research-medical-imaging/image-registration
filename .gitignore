@@ -1,0 +1,12 @@
+*/__pycache__
+__pycache__/
+wandb/
+notebooks/test_parameters.ipynb
+logs/
+eval/__pycache__/
+eval/results/
+notebooks/figures_liver
+notebooks/figures_lung
+notebooks/eval
+temp/
+check_models.py
