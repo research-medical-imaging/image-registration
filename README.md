@@ -82,3 +82,4 @@ We would like to thank the following repositories for their contributions and in
 - https://github.com/microsoft/Recursive-Cascaded-Networks?tab=readme-ov-file
 - https://github.com/ivan-jgr/recursive-cascaded-networks
 - https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration/tree/main/TransMorph
+- https://github.com/dddraxxx/Medical-Reg-with-Volume-Preserving
